@@ -1,0 +1,17 @@
+streamlit==1.62.0
+pandas==3.0.5
+numpy==2.5.2
+matplotlib==3.11.1
+seaborn==0.13.2
+scikit-learn==1.9.0
+scipy==1.18.1
+xgboost==3.4.1
+pygwalker==0.5.0.1
+tornado==6.5.8
+chardet==7.6.0
+pillow==12.3.0
+jieba==0.42.1
+openpyxl==3.1.5
+PyPDF2==3.0.1
+python-docx==1.2.0
+openai==2.14.0
